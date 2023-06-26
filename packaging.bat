@@ -1,0 +1,1 @@
+pyinstaller -F gpt4all-j-benchmark.py --copy-metadata tqdm --copy-metadata regex --copy-metadata requests --copy-metadata packaging --copy-metadata filelock --copy-metadata numpy
